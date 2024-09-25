@@ -1,2 +1,2 @@
-# tetris-game
-Simple Snake Game in Java.
+# Tetris Game
+Simple Tetris Game in Java.
